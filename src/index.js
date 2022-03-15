@@ -1,6 +1,8 @@
 import ReactDOM from "react-dom";
 import 'semantic-ui-css/semantic.min.css';
 
+import firebase from "./utils/firebase";
+
 import App from './App';
 
 ReactDOM.render(
